@@ -4,4 +4,5 @@ module.exports = {
     MATERIAL_API: process.env.BASE_API,
     UPLOAD_API: process.env.BASE_API,
     IMPORT_API: process.env.BASE_API
+服务器修改
 }
