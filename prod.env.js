@@ -7,4 +7,5 @@ module.exports = {
     本地local修改
 服务器修改
     你好
+    hello
 }

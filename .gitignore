@@ -59,7 +59,7 @@ local.properties
 *.ids
 *.orig
 classes/
-
+*.env.js
 ######################
 # Visual Studio Code
 ######################
@@ -140,4 +140,3 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
-prod.env.js
