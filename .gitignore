@@ -59,7 +59,7 @@ local.properties
 *.ids
 *.orig
 classes/
-*.env.js
+prod.env.js
 ######################
 # Visual Studio Code
 ######################
